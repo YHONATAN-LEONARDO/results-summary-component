@@ -11,12 +11,20 @@ The designs were created to the following widths:
 
 ## Colors
 
+<<<<<<< HEAD
+=======
+### Primary
+>>>>>>> 6cffcded0436c40a704e4245bfb451fe9cb98c2e
 
 - Light red: hsl(0, 100%, 67%)
 - Orangey yellow: hsl(39, 100%, 56%)
 - Green teal: hsl(166, 100%, 37%)
 - Cobalt blue: hsl(234, 85%, 45%)
 
+<<<<<<< HEAD
+=======
+## Gradients
+>>>>>>> 6cffcded0436c40a704e4245bfb451fe9cb98c2e
 
 - Light slate blue (background): hsl(252, 100%, 67%)
 - Light royal blue (background): hsl(241, 81%, 54%)
@@ -26,7 +34,11 @@ The designs were created to the following widths:
 
 
 
+<<<<<<< HEAD
 
+=======
+### Neutral
+>>>>>>> 6cffcded0436c40a704e4245bfb451fe9cb98c2e
 
 - White: hsl(0, 0%, 100%)
 - Pale blue: hsl(221, 100%, 96%)
