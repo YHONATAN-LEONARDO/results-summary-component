@@ -6,7 +6,6 @@
 
 Gracias por revisar este desafío de frontend.
 
-[Frontend Mentor](https://www.frontendmentor.io) te ayuda a mejorar tus habilidades construyendo proyectos realistas.
 
 ## Autor
 
